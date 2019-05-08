@@ -1,14 +1,4 @@
-## ProfileCreator 0.2.6
-
-Please report any bugs, feature requests or suggestions as an issue to this repository.
-
-## Alternate Downloads
-
-If the downloaded .dmg doesn't open correctly for you, please try one of the alternative downloads provided.
-
-## ProfileCreator Wiki
-
-A number of [new wiki pages](https://github.com/erikberglund/ProfileCreator/wiki) have been added, including a list of [supported payloads](https://github.com/erikberglund/ProfileCreator/wiki/Supported-Payloads), ProfileCreator preferences, and a detailed user guide.
+# ProfileCreator 0.2.6
 
 ## New Features
 
